@@ -28,3 +28,6 @@ gato gato espacio titulo nivel 2 y consecutivamente
 
 \#hola  
 
+[canva](https://www.canva.com/es_419/)  
+![imagen nutria](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg/250px-Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg)  
+[![imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg/250px-Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg/250px-Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg)  
